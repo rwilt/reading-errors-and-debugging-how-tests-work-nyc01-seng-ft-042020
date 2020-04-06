@@ -1,4 +1,5 @@
 # Add your variables here
+first_number = 4
 def calculator(num1, num2)
   first_number= get_variable_from_file('./calculator.rb', "first_number")
   second_number = num2
